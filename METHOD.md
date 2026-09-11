@@ -33,6 +33,7 @@ Approximate currency conversion is used only for the scale band; displayed value
 - Central Asia: Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan, plus Georgia, Armenia, Azerbaijan.
 - Asia Pacific (excl. Australia): South Asia, Southeast Asia, East Asia, New Zealand, Pacific islands.
 - Australia.
+- North America: United States, Canada, Mexico (added 12 Sept 2026; Central America and the Caribbean not yet covered). Accessibility scoring notes SJ Group member B+H Architects (Toronto) for Canada; US records assume a US-licensed partner is needed.
 
 ## Freshness and conflicts
 - Scan time = when sources were checked (dashboard header). Latest update = date of the most recent material development in the record.
