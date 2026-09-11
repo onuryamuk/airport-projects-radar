@@ -3,6 +3,6 @@
 //   Leave empty when there is no hosted scan. Example: https://github.com/<org>/<repo>/actions/workflows/daily-scan.yml
 // schedule_note: shown in the Refresh dialog on hosted copies.
 window.AMI_CONFIG = {
-  refresh_workflow_url: "",
-  schedule_note: ""
+  refresh_workflow_url: "https://github.com/onuryamuk/airport-projects-radar/actions/workflows/daily-scan.yml",
+  schedule_note: "daily at 06:00 UTC"
 };
