@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-09-11T21:25:44+00:00",
+  "last_scan": "2026-09-12T10:00:49+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -16,7 +16,7 @@ window.AMI_REFRESH = {
       "url": "https://www.internationalairportreview.com/",
       "kind": "html",
       "status": "200",
-      "items": 32,
+      "items": 31,
       "error": ""
     },
     {
@@ -31,9 +31,9 @@ window.AMI_REFRESH = {
       "name": "Airport World",
       "url": "https://www.airport-world.com/feed/",
       "kind": "rss",
-      "status": "ERROR",
-      "items": 0,
-      "error": "Response status code does not indicate success: 403 (Forbidden)."
+      "status": "200",
+      "items": 10,
+      "error": ""
     },
     {
       "name": "Global Construction Review",
@@ -116,7 +116,7 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 7,
+  "candidates_pending": 9,
   "new_signals_this_run": 0,
   "new_unmatched_this_run": 0,
   "projects_with_new_signals": [],

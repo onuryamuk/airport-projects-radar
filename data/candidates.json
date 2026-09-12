@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T21:25:44",
+  "generated": "2026-09-12T10:00:49",
   "candidates": [
     {
       "title": "Queen Alia International seeks new concessions for expansion",
@@ -58,6 +58,26 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Passenger numbers rise across Fraport’s global airport network",
+      "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
+      "published": "Fri, 11 Sep 2026 09:36:42 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Refuelling options increase at Lithuanian gateways",
+      "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+      "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-LV-RIX-TERM"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
