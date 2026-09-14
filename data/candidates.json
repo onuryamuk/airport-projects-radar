@@ -1,6 +1,16 @@
 {
   "candidates": [
     {
+      "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
+      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
+      "published": "Mon, 14 Sep 2026 10:54:14 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-GB-LHR-R3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Queen Alia International seeks new concessions for expansion",
       "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
       "published": "Wed, 09 Sep 2026 14:11:56 +0000",
@@ -31,22 +41,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "DHL to open healthcare logistics center at Changi Airport",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
-      "published": "Mon, 07 Sep 2026 13:37:35 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
+      "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "ME-QA-DOH-PHB"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -61,6 +71,26 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Passenger numbers rise across Fraport’s global airport network",
+      "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
+      "published": "Fri, 11 Sep 2026 09:36:42 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Refuelling options increase at Lithuanian gateways",
+      "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+      "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-LV-RIX-TERM"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "heathrow:press-release Redefine Your Beauty returns exclusively to Heathrow with immersive beauty experiences across terminals  05 August, 2026",
       "link": "https://mediacentre.heathrow.com/pressrelease/detail/26018",
       "published": "",
@@ -71,5 +101,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-13T11:01:50"
+  "generated": "2026-09-14T11:41:10"
 }
