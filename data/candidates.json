@@ -1,6 +1,26 @@
 {
-  "generated": "2026-09-16T10:47:35",
+  "generated": "2026-09-17T10:54:09",
   "candidates": [
+    {
+      "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
+      "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
+      "published": "Thu, 17 Sep 2026 10:47:08 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "London Gatwick launches largest ever food and beverage tender",
+      "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
+      "published": "Wed, 16 Sep 2026 14:07:20 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-GB-LGW-NR"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
       "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
@@ -30,16 +50,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Queen Alia International seeks new concessions for expansion",
-      "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-      "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "ME-JO-AMM-EXP"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -56,6 +66,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-DE-FRA-T3"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Easy come, easy go at Brisbane Airport",
+      "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
+      "published": "Thu, 17 Sep 2026 09:33:47 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-QLD-BNE-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
