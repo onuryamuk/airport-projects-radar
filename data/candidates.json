@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T10:54:09",
+  "generated": "2026-09-18T10:30:00",
   "candidates": [
     {
       "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
@@ -60,6 +60,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
+      "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-GB-LGW-NR"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
       "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
       "published": "",
@@ -68,24 +78,6 @@
         "EU-DE-FRA-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Easy come, easy go at Brisbane Airport",
-      "link": "https://airport-world.com/new-departure-process-for-international-travellers-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-departure-process-for-international-travellers-at-brisbane-airport",
-      "published": "Thu, 17 Sep 2026 09:33:47 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Air France to move into New York-JFK’s New Terminal One",
-      "link": "https://airport-world.com/air-france-to-move-into-new-york-jfks-new-terminal-one/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-to-move-into-new-york-jfks-new-terminal-one",
-      "published": "Tue, 15 Sep 2026 11:51:42 +0000",
-      "source": "Airport World",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
       "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
