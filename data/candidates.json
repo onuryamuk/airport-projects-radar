@@ -1,6 +1,15 @@
 {
-  "generated": "2026-09-18T10:30:00",
   "candidates": [
+    {
+      "title": "Stewart Wingate named next chair of London Gatwick",
+      "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
+      "published": "Fri, 18 Sep 2026 13:19:37 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "EU-GB-LGW-NR"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Brisbane Airport opens 12-lane passport control ahead of school holidays",
       "link": "https://www.passengerterminaltoday.com/news/security/brisbane-airport-opens-12-lane-passport-control-ahead-of-school-holidays.html",
@@ -38,16 +47,6 @@
       "source": "Passenger Terminal Today",
       "matched_projects": [],
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
-      "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-      "published": "Mon, 14 Sep 2026 10:54:14 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-GB-LHR-R3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -109,5 +108,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-09-19T10:14:55"
 }
