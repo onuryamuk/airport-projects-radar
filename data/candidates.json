@@ -19,14 +19,6 @@
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
-      "title": "Vinci Airports announces £500m Edinburgh Airport expansion plan",
-      "link": "https://www.passengerterminaltoday.com/news/construction-architecture/vinci-airports-announces-500m-edinburgh-airport-expansion-plan.html",
-      "published": "Wed, 23 Sep 2026 09:53:01 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -43,26 +35,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "EU-CH-ZRH-DOCKA"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Uber gets green light to serve Sydney’s new international airport",
-      "link": "https://airport-world.com/uber-gets-green-light-to-serve-sydneys-new-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=uber-gets-green-light-to-serve-sydneys-new-international-airport",
-      "published": "Sat, 26 Sep 2026 10:22:12 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Capturing pollution from aircraft emissions at Copenhagen Airport",
-      "link": "https://airport-world.com/capturing-pollution-from-aircraft-emissions-at-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-pollution-from-aircraft-emissions-at-copenhagen-airport",
-      "published": "Fri, 25 Sep 2026 15:57:46 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "EU-DK-CPH-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -114,19 +86,7 @@
         "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-      "link": "https://www.nationthailand.com/business/economy/40071616",
-      "published": "",
-      "source": "The Nation Thailand - business",
-      "matched_projects": [
-        "AP-TH-BKK-EAST",
-        "AP-TH-BKK-SOUTH",
-        "AP-TH-DMK-P3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-09-28T12:48:45"
+  "generated": "2026-09-29T12:03:42"
 }
