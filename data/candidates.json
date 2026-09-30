@@ -1,5 +1,17 @@
 {
+  "generated": "2026-09-30T11:52:04",
   "candidates": [
+    {
+      "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
+      "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
+      "published": "Wed, 30 Sep 2026 10:00:03 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AP-TH-BKK-EAST",
+        "AP-TH-BKK-SOUTH"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Uber to run exclusive pickup zone at Western Sydney International",
       "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
@@ -87,6 +99,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-09-29T12:03:42"
+  ]
 }
