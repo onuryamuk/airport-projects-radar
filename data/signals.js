@@ -1,9 +1,43 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-09-30T11:52:04+00:00",
+  "generated": "2026-10-01T12:21:55+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
+    "EU-DK-CPH-T3": [
+      {
+        "title": "Capturing pollution from aircraft emissions at Copenhagen Airport",
+        "link": "https://airport-world.com/capturing-pollution-from-aircraft-emissions-at-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-pollution-from-aircraft-emissions-at-copenhagen-airport",
+        "published": "Fri, 25 Sep 2026 15:57:46 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-26"
+      }
+    ],
+    "EU-CH-ZRH-DOCKA": [
+      {
+        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
+        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-28"
+      }
+    ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
+        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
     "AU-NSW-WSI-OPEN": [
       {
         "title": "Uber to run exclusive pickup zone at Western Sydney International",
@@ -20,22 +54,45 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-26"
       }
     ],
-    "AP-TH-DMK-P3": [
+    "ME-SA-JED-KAIA": [
       {
-        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-        "link": "https://www.nationthailand.com/business/economy/40071616",
-        "published": "",
-        "source": "The Nation Thailand - business",
-        "first_seen": "2026-09-28"
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
       }
     ],
-    "EU-CH-ZRH-DOCKA": [
+    "EU-GB-LGW-NR": [
       {
-        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
-        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+        "title": "London Gatwick launches largest ever food and beverage tender",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
+        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-17"
+      },
+      {
+        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
+        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
         "published": "",
         "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-28"
+        "first_seen": "2026-09-18"
+      },
+      {
+        "title": "Stewart Wingate named next chair of London Gatwick",
+        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
+        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-19"
+      }
+    ],
+    "AP-TW-TPE-T3": [
+      {
+        "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
+        "published": "Thu, 01 Oct 2026 11:34:41 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-01"
       }
     ],
     "AP-SG-SIN-T5": [
@@ -52,6 +109,102 @@ window.AMI_SIGNALS = {
         "published": "",
         "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-JO-AMM-EXP": [
+      {
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "ME-QA-DOH-PHB": [
+      {
+        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
+        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-14"
+      },
+      {
+        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
+        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
+        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
+        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
+    "AP-TH-BKK-EAST": [
+      {
+        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
+        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
+        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      },
+      {
+        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+        "link": "https://www.nationthailand.com/business/economy/40071616",
+        "published": "",
+        "source": "The Nation Thailand - business",
+        "first_seen": "2026-09-28"
+      },
+      {
+        "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
+        "published": "Wed, 30 Sep 2026 10:00:03 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-30"
+      }
+    ],
+    "AP-TH-DMK-P3": [
+      {
+        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+        "link": "https://www.nationthailand.com/business/economy/40071616",
+        "published": "",
+        "source": "The Nation Thailand - business",
+        "first_seen": "2026-09-28"
+      }
+    ],
+    "EU-DE-FRA-T3": [
+      {
+        "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
+        "link": "https://www.passengerterminaltoday.com/videos/video-how-frankfurt-airports-terminal-3-blends-art-and-retail-to-reshape-passenger-experience.html",
+        "published": "Wed, 09 Sep 2026 13:48:00 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
+        "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "Passenger numbers rise across Fraport’s global airport network",
+        "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
+        "published": "Fri, 11 Sep 2026 09:36:42 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "AP-IN-NIA-P1": [
+      {
+        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
+        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
+        "published": "",
+        "source": "Indian Infrastructure - aviation",
+        "first_seen": "2026-09-23"
       }
     ],
     "AP-TH-BKK-SOUTH": [
@@ -75,15 +228,6 @@ window.AMI_SIGNALS = {
         "published": "Wed, 30 Sep 2026 10:00:03 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-30"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
       }
     ],
     "AU-QLD-BNE-MP26": [
@@ -116,45 +260,6 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-21"
       }
     ],
-    "AP-TH-BKK-EAST": [
-      {
-        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
-        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
-        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
-      },
-      {
-        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-        "link": "https://www.nationthailand.com/business/economy/40071616",
-        "published": "",
-        "source": "The Nation Thailand - business",
-        "first_seen": "2026-09-28"
-      },
-      {
-        "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
-        "published": "Wed, 30 Sep 2026 10:00:03 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-30"
-      }
-    ],
-    "EU-LV-RIX-TERM": [
-      {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
-        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
     "EU-GB-LHR-R3": [
       {
         "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
@@ -176,102 +281,6 @@ window.AMI_SIGNALS = {
         "published": "",
         "source": "Heathrow Media Centre",
         "first_seen": "2026-09-25"
-      }
-    ],
-    "EU-DE-FRA-T3": [
-      {
-        "title": "VIDEO: How Frankfurt Airport’s Terminal 3 blends art and retail to reshape passenger experience",
-        "link": "https://www.passengerterminaltoday.com/videos/video-how-frankfurt-airports-terminal-3-blends-art-and-retail-to-reshape-passenger-experience.html",
-        "published": "Wed, 09 Sep 2026 13:48:00 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The energy transition at Frankfurt Airport: A Q&A with Michelle Sandbrink, Corporate Strategy and Sustainability Management at Fraport AG",
-        "link": "https://www.internationalairportreview.com/sustainability-and-net-zero/the-energy-transition-at-frankfurt-airport-a-qanda-with-michelle-sandbrink-corporate-strategy-and-sustainability-management-at-fraport-ag/2135312.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "Passenger numbers rise across Fraport’s global airport network",
-        "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
-        "published": "Fri, 11 Sep 2026 09:36:42 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-GB-LGW-NR": [
-      {
-        "title": "London Gatwick launches largest ever food and beverage tender",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/london-gatwick-launches-largest-ever-food-and-beverage-tender.html",
-        "published": "Wed, 16 Sep 2026 14:07:20 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-17"
-      },
-      {
-        "title": "London Gatwick Airport launches largest ever food and beverage tender across both terminals",
-        "link": "https://www.internationalairportreview.com/london-gatwick-airport-launches-largest-ever-food-and-beverage-tender-across-both-terminals/2136500.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-18"
-      },
-      {
-        "title": "Stewart Wingate named next chair of London Gatwick",
-        "link": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
-        "published": "Fri, 18 Sep 2026 13:19:37 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-19"
-      }
-    ],
-    "EU-DK-CPH-T3": [
-      {
-        "title": "Capturing pollution from aircraft emissions at Copenhagen Airport",
-        "link": "https://airport-world.com/capturing-pollution-from-aircraft-emissions-at-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-pollution-from-aircraft-emissions-at-copenhagen-airport",
-        "published": "Fri, 25 Sep 2026 15:57:46 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-26"
-      }
-    ],
-    "ME-SA-JED-KAIA": [
-      {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "ME-QA-DOH-PHB": [
-      {
-        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
-        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-14"
-      },
-      {
-        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
-        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
-        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
-        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "AP-IN-NIA-P1": [
-      {
-        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
-        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
-        "published": "",
-        "source": "Indian Infrastructure - aviation",
-        "first_seen": "2026-09-23"
       }
     ]
   },
