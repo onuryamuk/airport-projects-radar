@@ -1,6 +1,16 @@
 {
   "candidates": [
     {
+      "title": "Western Sydney International launches shuttle bus service",
+      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
+      "published": "Thu, 01 Oct 2026 14:11:55 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
       "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
       "published": "Wed, 30 Sep 2026 10:00:03 +0000",
@@ -22,20 +32,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Corgan hires Ben Dawson to lead Asia-Pacific aviation expansion",
-      "link": "https://www.passengerterminaltoday.com/news/personnel/corgan-hires-ben-dawson-to-lead-asia-pacific-aviation-expansion.html",
-      "published": "Fri, 25 Sep 2026 09:58:41 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
+      "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AP-NZ-AKL-DJT"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -60,5 +72,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-01T12:21:55"
+  "generated": "2026-10-02T11:49:22"
 }
