@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-03T11:02:48",
   "candidates": [
     {
       "title": "Western Sydney International launches shuttle bus service",
@@ -18,16 +19,6 @@
       "matched_projects": [
         "AP-TH-BKK-EAST",
         "AP-TH-BKK-SOUTH"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Uber to run exclusive pickup zone at Western Sydney International",
-      "link": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
-      "published": "Fri, 25 Sep 2026 10:09:35 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -71,6 +62,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-02T11:49:22"
+  ]
 }
