@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-04T11:44:20+00:00",
+  "last_scan": "2026-10-05T13:30:15+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -116,10 +116,14 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 6,
-  "new_signals_this_run": 0,
+  "candidates_pending": 7,
+  "new_signals_this_run": 3,
   "new_unmatched_this_run": 0,
-  "projects_with_new_signals": [],
+  "projects_with_new_signals": [
+    "EU-IE-DUB-INFRA",
+    "AU-NSW-WSI-OPEN",
+    "EU-DK-CPH-T3"
+  ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
@@ -136,7 +140,10 @@ window.AMI_REFRESH = {
     "AP-VN-GBN-NEW",
     "AP-VN-PQC-EXP",
     "AP-PH-NMIA-P1",
+    "AP-IN-NIA-P1",
+    "AP-IN-NMI-P2",
     "AP-IN-MAA2-PARANDUR",
+    "AP-IN-NMP2-OMDA",
     "AP-CN-PVG-T3",
     "AP-CN-XMN-XIANGAN",
     "AP-CN-DLC-JINZHOUWAN",
