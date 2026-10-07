@@ -21,6 +21,14 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Hudson-led joint venture awarded three duty-free locations as part of Seattle-Tacoma Airport expansion",
+      "link": "https://www.internationalairportreview.com/hudson-led-joint-venture-awarded-three-duty-free-locations-as-part-of-seattle-tacoma-airport-expansion/2136679.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
       "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
       "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
       "published": "",
@@ -31,12 +39,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Dublin Airport opens new Fast Track security facilities in Terminal 1 and Terminal 2",
-      "link": "https://www.internationalairportreview.com/dublin-airport-opens-new-fast-track-security-facilities-in-terminal-1-and-terminal-2/2136650.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
+      "title": "Schiphol airport to get house in order with five, nine-year contracts",
+      "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
+      "published": "Tue, 06 Oct 2026 13:06:52 +0000",
+      "source": "Global Construction Review",
       "matched_projects": [
-        "EU-IE-DUB-INFRA"
+        "EU-NL-AMS-SOUTH"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -71,5 +79,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-06T12:41:29"
+  "generated": "2026-10-07T12:35:24"
 }

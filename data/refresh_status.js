@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-06T12:41:29+00:00",
+  "last_scan": "2026-10-07T12:35:24+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -116,11 +116,11 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 7,
+  "candidates_pending": 8,
   "new_signals_this_run": 1,
-  "new_unmatched_this_run": 0,
+  "new_unmatched_this_run": 1,
   "projects_with_new_signals": [
-    "EU-CZ-PRG-T12"
+    "EU-NL-AMS-SOUTH"
   ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
