@@ -1,40 +1,12 @@
 {
   "candidates": [
     {
-      "title": "Western Sydney International launches shuttle bus service",
-      "link": "https://www.passengerterminaltoday.com/news/passenger-experience/western-sydney-international-launches-shuttle-bus-service.html",
-      "published": "Thu, 01 Oct 2026 14:11:55 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Hudson-led joint venture awarded three duty-free locations as part of Seattle-Tacoma Airport expansion",
-      "link": "https://www.internationalairportreview.com/hudson-led-joint-venture-awarded-three-duty-free-locations-as-part-of-seattle-tacoma-airport-expansion/2136679.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
-      "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
-      "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "EU-CZ-PRG-T12"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -47,6 +19,14 @@
         "EU-NL-AMS-SOUTH"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Inside Pittsburgh International Airport’s new terminal: One year of lessons on technology, collaboration, operational readiness and more",
+      "link": "https://www.futuretravelexperience.com/2026/10/inside-pittsburgh-international-airports-new-terminal-one-year-of-lessons-on-technology-collaboration-operational-readiness-and-more/",
+      "published": "Wed, 07 Oct 2026 15:46:49 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
       "title": "Western Sydney International Airport partners with Uber to deliver seamless passenger ground connections",
@@ -79,5 +59,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-10-07T12:35:24"
+  "generated": "2026-10-08T12:45:06"
 }

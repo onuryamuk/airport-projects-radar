@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-07T12:35:24+00:00",
+  "last_scan": "2026-10-08T12:45:06+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -7,16 +7,16 @@ window.AMI_REFRESH = {
       "name": "Passenger Terminal Today",
       "url": "https://www.passengerterminaltoday.com/feed/",
       "kind": "rss",
-      "status": "200",
-      "items": 10,
-      "error": ""
+      "status": "ERROR",
+      "items": 0,
+      "error": "Response status code does not indicate success: 403 (Forbidden)."
     },
     {
       "name": "International Airport Review (homepage)",
       "url": "https://www.internationalairportreview.com/",
       "kind": "html",
       "status": "200",
-      "items": 31,
+      "items": 32,
       "error": ""
     },
     {
@@ -116,12 +116,10 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 8,
-  "new_signals_this_run": 1,
+  "candidates_pending": 6,
+  "new_signals_this_run": 0,
   "new_unmatched_this_run": 1,
-  "projects_with_new_signals": [
-    "EU-NL-AMS-SOUTH"
-  ],
+  "projects_with_new_signals": [],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
