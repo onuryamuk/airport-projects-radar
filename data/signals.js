@@ -1,121 +1,30 @@
 window.AMI_SIGNALS = {
-  "generated": "2026-10-10T11:50:39+00:00",
+  "generated": "2026-10-11T12:02:37+00:00",
   "dismissed": [
     "https://mediacentre.heathrow.com/pressrelease/detail/26018"
   ],
   "projects": {
-    "EU-CZ-PRG-T12": [
+    "AP-TH-BKK-SOUTH": [
       {
-        "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
-        "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-06"
-      }
-    ],
-    "ME-SA-JED-KAIA": [
-      {
-        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
-        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "AP-IN-NIA-P1": [
-      {
-        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
-        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
-        "published": "",
-        "source": "Indian Infrastructure - aviation",
-        "first_seen": "2026-09-23"
-      }
-    ],
-    "AP-SG-SIN-T5": [
-      {
-        "title": "DHL to open healthcare logistics center at Changi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
-        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
-        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-LV-RIX-TERM": [
-      {
-        "title": "Refuelling options increase at Lithuanian gateways",
-        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
-        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
-        "source": "Airport World",
-        "first_seen": "2026-09-11"
-      },
-      {
-        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
-        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "ME-QA-DOH-PHB": [
-      {
-        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
-        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-09-14"
-      },
-      {
-        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
-        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-16"
-      },
-      {
-        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
-        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
-        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-16"
-      }
-    ],
-    "ME-JO-AMM-EXP": [
-      {
-        "title": "Queen Alia International seeks new concessions for expansion",
-        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
-        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-11"
-      }
-    ],
-    "EU-GB-LHR-R3": [
-      {
-        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
-        "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-14"
-      },
-      {
-        "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
-        "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
-        "published": "Sat, 19 Sep 2026 18:03:08 +0000",
+        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
+        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
+        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
         "source": "Future Travel Experience",
         "first_seen": "2026-09-20"
       },
       {
-        "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
-        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
+        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+        "link": "https://www.nationthailand.com/business/economy/40071616",
         "published": "",
-        "source": "Heathrow Media Centre",
-        "first_seen": "2026-09-25"
+        "source": "The Nation Thailand - business",
+        "first_seen": "2026-09-28"
+      },
+      {
+        "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
+        "published": "Wed, 30 Sep 2026 10:00:03 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-30"
       }
     ],
     "AU-NSW-WSI-OPEN": [
@@ -148,43 +57,25 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-10-05"
       }
     ],
-    "EU-IE-DUB-INFRA": [
+    "ME-JO-AMM-EXP": [
       {
-        "title": "Dublin Airport opens new Fast Track security facilities in Terminal 1 and Terminal 2",
-        "link": "https://www.internationalairportreview.com/dublin-airport-opens-new-fast-track-security-facilities-in-terminal-1-and-terminal-2/2136650.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-05"
+        "title": "Queen Alia International seeks new concessions for expansion",
+        "link": "https://www.passengerterminaltoday.com/news/food-beverage/queen-alia-international-seeks-new-concessions-for-expansion.html",
+        "published": "Wed, 09 Sep 2026 14:11:56 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
       }
     ],
-    "AP-NZ-AKL-DJT": [
+    "AP-TH-DMK-P3": [
       {
-        "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
-        "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
+        "link": "https://www.nationthailand.com/business/economy/40071616",
         "published": "",
-        "source": "International Airport Review (homepage)",
-        "first_seen": "2026-10-02"
-      }
-    ],
-    "AP-TW-TPE-T3": [
-      {
-        "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
-        "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
-        "published": "Thu, 01 Oct 2026 11:34:41 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-10-01"
-      }
-    ],
-    "EU-CH-ZRH-DOCKA": [
-      {
-        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
-        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
-        "published": "",
-        "source": "International Airport Review (homepage)",
+        "source": "The Nation Thailand - business",
         "first_seen": "2026-09-28"
       }
     ],
-    "AP-TH-BKK-SOUTH": [
+    "AP-TH-BKK-EAST": [
       {
         "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
         "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
@@ -207,13 +98,36 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-30"
       }
     ],
-    "AP-TH-DMK-P3": [
+    "EU-GB-LHR-R3": [
       {
-        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-        "link": "https://www.nationthailand.com/business/economy/40071616",
+        "title": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
+        "published": "Mon, 14 Sep 2026 10:54:14 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-14"
+      },
+      {
+        "title": "Heathrow Terminal 5 to welcome expanded No1 Lounge in spring 2027 enhancing premium experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/heathrow-terminal-5-to-welcome-expanded-no1-lounge-in-spring-2027-enhancing-premium-experience/",
+        "published": "Sat, 19 Sep 2026 18:03:08 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-20"
+      },
+      {
+        "title": "heathrow:press-release Luxury lands at Heathrow with new store openings in Terminal 5   25 September, 2026",
+        "link": "https://mediacentre.heathrow.com/pressrelease/detail/26289",
         "published": "",
-        "source": "The Nation Thailand - business",
-        "first_seen": "2026-09-28"
+        "source": "Heathrow Media Centre",
+        "first_seen": "2026-09-25"
+      }
+    ],
+    "EU-NL-AMS-SOUTH": [
+      {
+        "title": "Schiphol airport to get house in order with five, nine-year contracts",
+        "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
+        "published": "Tue, 06 Oct 2026 13:06:52 +0000",
+        "source": "Global Construction Review",
+        "first_seen": "2026-10-07"
       }
     ],
     "EU-GB-LGW-NR": [
@@ -237,6 +151,15 @@ window.AMI_SIGNALS = {
         "published": "Fri, 18 Sep 2026 13:19:37 +0000",
         "source": "Passenger Terminal Today",
         "first_seen": "2026-09-19"
+      }
+    ],
+    "ME-SA-JED-KAIA": [
+      {
+        "title": "Saudi Arabia’s King Abdulaziz Airport earns ACI Level 4 customer experience accreditation",
+        "link": "https://www.passengerterminaltoday.com/news/passenger-experience/saudi-arabias-king-abdulaziz-airport-earns-aci-level-4-customer-experience-accreditation.html",
+        "published": "Tue, 08 Sep 2026 17:03:21 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
       }
     ],
     "AU-QLD-BNE-MP26": [
@@ -269,6 +192,56 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-09-21"
       }
     ],
+    "AP-IN-NIA-P1": [
+      {
+        "title": "ACES India and Jio sign 25-year deal to enable 4G and 5G connectivity at Noida international airport",
+        "link": "https://indianinfrastructure.com/2026/09/21/aces-india-and-jio-sign-25-year-deal-to-enable-4g-and-5g-connectivity-at-noida-international-airport/",
+        "published": "",
+        "source": "Indian Infrastructure - aviation",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "title": "Noida International Airport and ePlane Company to develop Advanced Air Mobility infrastructure",
+        "link": "https://www.futuretravelexperience.com/2026/10/noida-international-airport-and-eplane-company-to-develop-advanced-air-mobility-infrastructure/",
+        "published": "Sun, 11 Oct 2026 08:28:42 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-11"
+      }
+    ],
+    "EU-LV-RIX-TERM": [
+      {
+        "title": "Refuelling options increase at Lithuanian gateways",
+        "link": "https://airport-world.com/refuelling-options-increase-at-lithuanian-gateways/?utm_source=rss&utm_medium=rss&utm_campaign=refuelling-options-increase-at-lithuanian-gateways",
+        "published": "Wed, 09 Sep 2026 10:13:58 +0000",
+        "source": "Airport World",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "RIX Riga Airport advances major terminal expansion to enhance passenger experience",
+        "link": "https://www.futuretravelexperience.com/2026/09/rix-riga-airport-advances-major-terminal-expansion-to-enhance-passenger-experience/",
+        "published": "Tue, 15 Sep 2026 11:44:20 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
+    "EU-CH-ZRH-DOCKA": [
+      {
+        "title": "Zurich Airport runs automated shuttle buses without safety driver on board",
+        "link": "https://www.internationalairportreview.com/zurich-airport-runs-automated-shuttle-buses-without-safety-driver-on-board/2136593.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-28"
+      }
+    ],
+    "AP-NZ-AKL-DJT": [
+      {
+        "title": "Auckland Airport passes halfway point of NZ$3.9 billion terminal programme as check-in zone nears opening",
+        "link": "https://www.internationalairportreview.com/auckland-airport-passes-halfway-point-of-nz39-billion-terminal-programme-as-check-in-zone-nears-opening/2136638.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-02"
+      }
+    ],
     "EU-DK-CPH-T3": [
       {
         "title": "Capturing pollution from aircraft emissions at Copenhagen Airport",
@@ -285,36 +258,45 @@ window.AMI_SIGNALS = {
         "first_seen": "2026-10-05"
       }
     ],
-    "EU-NL-AMS-SOUTH": [
+    "AP-TW-TPE-T3": [
       {
-        "title": "Schiphol airport to get house in order with five, nine-year contracts",
-        "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
-        "published": "Tue, 06 Oct 2026 13:06:52 +0000",
-        "source": "Global Construction Review",
-        "first_seen": "2026-10-07"
+        "title": "Taiwan Taoyuan Airport unveils four refurbished Plaza Premium lounges blending local culture and enhanced CX",
+        "link": "https://www.futuretravelexperience.com/2026/10/taiwan-taoyuan-airport-unveils-four-refurbished-plaza-premium-lounges-blending-local-culture-and-enhanced-cx/",
+        "published": "Thu, 01 Oct 2026 11:34:41 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-10-01"
       }
     ],
-    "AP-TH-BKK-EAST": [
+    "ME-QA-DOH-PHB": [
       {
-        "title": "Bangkok Suvarnabhumi Airport welcomes new Plaza Premium dual-lounge concept",
-        "link": "https://www.futuretravelexperience.com/2026/09/bangkok-suvarnabhumi-airport-welcomes-new-plaza-premium-dual-lounge-concept/",
-        "published": "Sat, 19 Sep 2026 18:23:30 +0000",
-        "source": "Future Travel Experience",
-        "first_seen": "2026-09-20"
-      },
-      {
-        "title": "U-Tapao airport opens round the clock to receive diverted flightsSeptember 28, 2026The navy is keeping the airport available until Sunday (October 4, 2026) for flights unable to land at Suvarnabhumi or Don Mueang because of adverse weather.",
-        "link": "https://www.nationthailand.com/business/economy/40071616",
+        "title": "Hamad International Airport launches complimentary wellness studio for transit passengers",
+        "link": "https://www.internationalairportreview.com/hamad-international-airport-launches-complimentary-wellness-studio-for-transit-passengers/2136457.article",
         "published": "",
-        "source": "The Nation Thailand - business",
-        "first_seen": "2026-09-28"
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-09-14"
       },
       {
-        "title": "Plaza Premium Group opens two lounges at Bangkok Suvarnabhumi Airport",
-        "link": "https://www.passengerterminaltoday.com/news/lounge/plaza-premium-group-opens-two-lounges-at-bangkok-suvarnabhumi-airport.html",
-        "published": "Wed, 30 Sep 2026 10:00:03 +0000",
+        "title": "Airport Dimensions opens third Sleepover space at Hamad International Airport",
+        "link": "https://www.passengerterminaltoday.com/news/lounge/airport-dimensions-opens-third-sleepover-space-at-hamad-international-airport.html",
+        "published": "Wed, 16 Sep 2026 09:40:27 +0000",
         "source": "Passenger Terminal Today",
-        "first_seen": "2026-09-30"
+        "first_seen": "2026-09-16"
+      },
+      {
+        "title": "Hamad International Airport launches Travel Recovery Studio to enhance passenger wellbeing",
+        "link": "https://www.futuretravelexperience.com/2026/09/hamad-international-airport-launches-travel-recovery-studio-to-enhance-passenger-wellbeing/",
+        "published": "Tue, 15 Sep 2026 14:06:01 +0000",
+        "source": "Future Travel Experience",
+        "first_seen": "2026-09-16"
+      }
+    ],
+    "EU-IE-DUB-INFRA": [
+      {
+        "title": "Dublin Airport opens new Fast Track security facilities in Terminal 1 and Terminal 2",
+        "link": "https://www.internationalairportreview.com/dublin-airport-opens-new-fast-track-security-facilities-in-terminal-1-and-terminal-2/2136650.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-05"
       }
     ],
     "EU-DE-FRA-T3": [
@@ -337,6 +319,31 @@ window.AMI_SIGNALS = {
         "link": "https://airport-world.com/passenger-numbers-rise-across-fraports-global-airport-network/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-numbers-rise-across-fraports-global-airport-network",
         "published": "Fri, 11 Sep 2026 09:36:42 +0000",
         "source": "Airport World",
+        "first_seen": "2026-09-11"
+      }
+    ],
+    "EU-CZ-PRG-T12": [
+      {
+        "title": "Prague Airport introduces passenger care and multilingual measures to speed up non-Schengen border checks",
+        "link": "https://www.internationalairportreview.com/prague-airport-introduces-passenger-care-and-multilingual-measures-to-speed-up-non-schengen-border-checks/2136662.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
+        "first_seen": "2026-10-06"
+      }
+    ],
+    "AP-SG-SIN-T5": [
+      {
+        "title": "DHL to open healthcare logistics center at Changi Airport",
+        "link": "https://www.passengerterminaltoday.com/news/operations-news/dhl-to-open-healthcare-logistics-center-at-changi-airport.html",
+        "published": "Mon, 07 Sep 2026 13:37:35 +0000",
+        "source": "Passenger Terminal Today",
+        "first_seen": "2026-09-11"
+      },
+      {
+        "title": "The Changi experience: Inside one of aviation’s most recognised brands",
+        "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
+        "published": "",
+        "source": "International Airport Review (homepage)",
         "first_seen": "2026-09-11"
       }
     ]
@@ -390,6 +397,13 @@ window.AMI_SIGNALS = {
       "published": "Wed, 07 Oct 2026 15:46:49 +0000",
       "source": "Future Travel Experience",
       "first_seen": "2026-10-08"
+    },
+    {
+      "title": "Seattle-Tacoma plans major duty free expansion to enhance airport shopping experience",
+      "link": "https://www.futuretravelexperience.com/2026/10/seattle-tacoma-plans-major-duty-free-expansion-to-enhance-airport-shopping-experience/",
+      "published": "Sun, 11 Oct 2026 09:27:44 +0000",
+      "source": "Future Travel Experience",
+      "first_seen": "2026-10-11"
     }
   ]
 };
