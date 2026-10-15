@@ -1,4 +1,5 @@
 {
+  "generated": "2026-10-15T10:48:23",
   "candidates": [
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -7,16 +8,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Bristol Airport solar arrays generate record renewable energy, up 20 per cent on 2025 levels",
-      "link": "https://www.internationalairportreview.com/bristol-airport-solar-arrays-generate-record-renewable-energy-up-20-per-cent-on-2025-levels/2136727.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -58,6 +49,5 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ],
-  "generated": "2026-10-14T11:06:20"
+  ]
 }
