@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T10:19:28",
+  "generated": "2026-10-19T12:00:29",
   "candidates": [
     {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
@@ -22,27 +22,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Perth Airport celebrates 30-year partnership with Delaware North",
-      "link": "https://airport-world.com/perth-airport-celebrates-30-year-partnership-with-delaware-north/?utm_source=rss&utm_medium=rss&utm_campaign=perth-airport-celebrates-30-year-partnership-with-delaware-north",
-      "published": "Fri, 16 Oct 2026 11:34:28 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "New airport pavement initiative launched by CAG subsidiary",
-      "link": "https://airport-world.com/new-airport-pavement-initiative-launched-by-cag-subsidiary/?utm_source=rss&utm_medium=rss&utm_campaign=new-airport-pavement-initiative-launched-by-cag-subsidiary",
-      "published": "Thu, 15 Oct 2026 10:13:57 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "NA-EG-PROG-11",
-        "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "Schiphol airport to get house in order with five, nine-year contracts",
       "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
       "published": "Tue, 06 Oct 2026 13:06:52 +0000",
@@ -53,9 +32,27 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Seattle-Tacoma plans major duty free expansion to enhance airport shopping experience",
-      "link": "https://www.futuretravelexperience.com/2026/10/seattle-tacoma-plans-major-duty-free-expansion-to-enhance-airport-shopping-experience/",
-      "published": "Sun, 11 Oct 2026 09:27:44 +0000",
+      "title": "Changi Airports International unveils innovation-focused Airport Pavement Centre of Excellence",
+      "link": "https://www.futuretravelexperience.com/2026/10/changi-airports-international-unveils-innovation-focused-airport-pavement-centre-of-excellence/",
+      "published": "Sun, 18 Oct 2026 13:23:36 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [
+        "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "VINCI Airports launches modernisation and expansion of Terminal 2 at Lyon-Saint Exupéry Airport",
+      "link": "https://www.futuretravelexperience.com/2026/10/vinci-airports-launches-modernisation-and-expansion-of-terminal-2-at-lyon-saint-exupery-airport/",
+      "published": "Sun, 18 Oct 2026 13:17:09 +0000",
+      "source": "Future Travel Experience",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
+      "title": "Austin-Bergstrom advances Journey With AUS expansion with Concourse M ground-breaking",
+      "link": "https://www.futuretravelexperience.com/2026/10/austin-bergstrom-advances-journey-with-aus-expansion-with-concourse-m-ground-breaking/",
+      "published": "Sun, 18 Oct 2026 13:00:11 +0000",
       "source": "Future Travel Experience",
       "matched_projects": [],
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
