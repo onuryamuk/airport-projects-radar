@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-19T12:00:29+00:00",
+  "last_scan": "2026-10-20T10:53:14+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -15,8 +15,8 @@ window.AMI_REFRESH = {
       "name": "International Airport Review (homepage)",
       "url": "https://www.internationalairportreview.com/",
       "kind": "html",
-      "status": "200",
-      "items": 30,
+      "status": "202",
+      "items": 0,
       "error": ""
     },
     {
@@ -31,9 +31,9 @@ window.AMI_REFRESH = {
       "name": "Airport World",
       "url": "https://www.airport-world.com/feed/",
       "kind": "rss",
-      "status": "ERROR",
-      "items": 0,
-      "error": "The request was canceled due to the configured HttpClient.Timeout of 40 seconds elapsing."
+      "status": "200",
+      "items": 10,
+      "error": ""
     },
     {
       "name": "Global Construction Review",
@@ -117,9 +117,10 @@ window.AMI_REFRESH = {
     }
   ],
   "candidates_pending": 7,
-  "new_signals_this_run": 1,
-  "new_unmatched_this_run": 2,
+  "new_signals_this_run": 2,
+  "new_unmatched_this_run": 0,
   "projects_with_new_signals": [
+    "EU-DE-FRA-T3",
     "AP-SG-SIN-T5"
   ],
   "stale_projects": [
