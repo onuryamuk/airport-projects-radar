@@ -1,5 +1,4 @@
 {
-  "generated": "2026-10-22T11:05:53",
   "candidates": [
     {
       "title": "Perth Airport seeks hospitality and entertainment operators for new Runway Entertainment Precinct",
@@ -52,6 +51,16 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Catering to all at Western Sydney International Airport",
+      "link": "https://airport-world.com/catering-to-all-at-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=catering-to-all-at-western-sydney-international-airport",
+      "published": "Fri, 23 Oct 2026 10:10:34 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Sneak preview of United’s new Terminal B North Concourse at IAH",
       "link": "https://airport-world.com/sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah/?utm_source=rss&utm_medium=rss&utm_campaign=sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah",
       "published": "Wed, 21 Oct 2026 17:32:16 +0000",
@@ -76,16 +85,6 @@
       "source": "Airport World",
       "matched_projects": [
         "EU-DE-FRA-T3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Passenger and cargo demand remain resilient at Singapore Changi",
-      "link": "https://airport-world.com/passenger-and-cargo-demand-remain-resilient-at-singapore-changi/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-and-cargo-demand-remain-resilient-at-singapore-changi",
-      "published": "Mon, 19 Oct 2026 07:59:01 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AP-SG-SIN-T5"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -125,5 +124,6 @@
       "matched_projects": [],
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     }
-  ]
+  ],
+  "generated": "2026-10-23T10:57:42"
 }
