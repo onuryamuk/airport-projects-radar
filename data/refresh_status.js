@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-23T10:57:42+00:00",
+  "last_scan": "2026-10-24T10:13:50+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -116,10 +116,11 @@ window.AMI_REFRESH = {
       "error": ""
     }
   ],
-  "candidates_pending": 13,
-  "new_signals_this_run": 1,
-  "new_unmatched_this_run": 0,
+  "candidates_pending": 16,
+  "new_signals_this_run": 3,
+  "new_unmatched_this_run": 1,
   "projects_with_new_signals": [
+    "EU-GB-LHR-R3",
     "AU-NSW-WSI-OPEN"
   ],
   "stale_projects": [
