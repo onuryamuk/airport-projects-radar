@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-10-27T11:32:46+00:00",
+  "last_scan": "2026-10-28T12:02:59+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -116,13 +116,11 @@
       "error": ""
     }
   ],
-  "candidates_pending": 19,
-  "new_signals_this_run": 3,
+  "candidates_pending": 18,
+  "new_signals_this_run": 1,
   "new_unmatched_this_run": 0,
   "projects_with_new_signals": [
-    "AU-WA-PER-MP26",
-    "AU-NSW-WSI-OPEN",
-    "EU-GB-LHR-R3"
+    "AU-NSW-WSI-OPEN"
   ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",

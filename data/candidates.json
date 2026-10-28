@@ -1,6 +1,15 @@
 {
-  "generated": "2026-10-27T11:32:46",
   "candidates": [
+    {
+      "title": "Australia’s Western Sydney International welcomes first passengers",
+      "link": "https://www.passengerterminaltoday.com/news/airport/australias-western-sydney-international-welcomes-first-passengers.html",
+      "published": "Wed, 28 Oct 2026 11:01:11 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
     {
       "title": "Perth Airport releases concept designs for new terminal",
       "link": "https://www.passengerterminaltoday.com/news/terminal/perth-airport-releases-concept-designs-for-new-terminal.html",
@@ -58,16 +67,6 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "UK regional airports back Heathrow third runway as RABA Group signs new memorandum of understanding",
-      "link": "https://www.internationalairportreview.com/uk-regional-airports-back-heathrow-third-runway-as-raba-group-signs-new-memorandum-of-understanding/2136853.article",
-      "published": "",
-      "source": "International Airport Review (homepage)",
-      "matched_projects": [
-        "EU-GB-LHR-R3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -131,16 +130,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Expanding route network to ensure busy winter at Frankfurt Airport",
-      "link": "https://airport-world.com/expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport/?utm_source=rss&utm_medium=rss&utm_campaign=expanding-route-network-to-ensure-busy-winter-at-frankfurt-airport",
-      "published": "Tue, 20 Oct 2026 08:50:35 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "Schiphol airport to get house in order with five, nine-year contracts",
       "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
       "published": "Tue, 06 Oct 2026 13:06:52 +0000",
@@ -186,5 +175,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-28T12:02:59"
 }
