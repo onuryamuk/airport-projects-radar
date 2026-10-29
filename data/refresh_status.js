@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-10-28T12:02:59+00:00",
+  "last_scan": "2026-10-29T12:13:21+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -111,16 +111,18 @@ window.AMI_REFRESH = {
       "name": "Indian Infrastructure - aviation",
       "url": "https://indianinfrastructure.com/category/sector/aviation/",
       "kind": "html",
-      "status": "200",
-      "items": 4,
-      "error": ""
+      "status": "ERROR",
+      "items": 0,
+      "error": "Response status code does not indicate success: 404 (Not Found)."
     }
   ],
-  "candidates_pending": 18,
-  "new_signals_this_run": 1,
-  "new_unmatched_this_run": 0,
+  "candidates_pending": 16,
+  "new_signals_this_run": 3,
+  "new_unmatched_this_run": 1,
   "projects_with_new_signals": [
-    "AU-NSW-WSI-OPEN"
+    "EU-CH-ZRH-DOCKA",
+    "EU-DE-FRA-T3",
+    "AU-WA-PER-MP26"
   ],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
