@@ -1,5 +1,4 @@
 {
-  "generated": "2026-10-29T12:13:21",
   "candidates": [
     {
       "title": "Australia’s Western Sydney International welcomes first passengers",
@@ -42,16 +41,6 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "FEATURE: Athens International Airport on conversational AI and customer experience",
-      "link": "https://www.passengerterminaltoday.com/news/it-software/feature-athens-international-airport-on-conversational-ai-and-customer-experience.html",
-      "published": "Sat, 24 Oct 2026 15:10:55 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [
-        "EU-GR-ATH-EXP"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
@@ -72,6 +61,24 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
+      "title": "Electric bus fleet expanded by dnata at Rome Fiumicino",
+      "link": "https://airport-world.com/electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino/?utm_source=rss&utm_medium=rss&utm_campaign=electric-bus-fleet-expanded-by-dnata-at-rome-fiumicino",
+      "published": "Fri, 30 Oct 2026 10:11:08 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-IT-FCO-DEVPLAN"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Travel Retail Norway wins new tender for four Avinor airports",
+      "link": "https://airport-world.com/travel-retail-norway-wins-new-tender-for-four-avinor-airports/?utm_source=rss&utm_medium=rss&utm_campaign=travel-retail-norway-wins-new-tender-for-four-avinor-airports",
+      "published": "Thu, 29 Oct 2026 17:10:04 +0000",
+      "source": "Airport World",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
+    {
       "title": "Take off for Western Sydney International Airport",
       "link": "https://airport-world.com/take-off-for-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=take-off-for-western-sydney-international-airport",
       "published": "Mon, 26 Oct 2026 10:13:22 +0000",
@@ -89,16 +96,6 @@
       "matched_projects": [
         "AU-NSW-WSI-OPEN",
         "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Catering to all at Western Sydney International Airport",
-      "link": "https://airport-world.com/catering-to-all-at-western-sydney-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=catering-to-all-at-western-sydney-international-airport",
-      "published": "Fri, 23 Oct 2026 10:10:34 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "AU-NSW-WSI-OPEN"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -160,5 +157,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-10-30T12:03:57"
 }
