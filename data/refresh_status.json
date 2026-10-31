@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-10-30T12:03:57+00:00",
+  "last_scan": "2026-10-31T11:38:55+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -117,17 +117,16 @@
     }
   ],
   "candidates_pending": 16,
-  "new_signals_this_run": 1,
-  "new_unmatched_this_run": 1,
-  "projects_with_new_signals": [
-    "EU-IT-FCO-DEVPLAN"
-  ],
+  "new_signals_this_run": 0,
+  "new_unmatched_this_run": 0,
+  "projects_with_new_signals": [],
   "stale_projects": [
     "EU-ES-MAD-DORA3",
     "EU-ES-BCN-DORA3",
     "ME-SA-AHB-PPP",
     "ME-SA-TIF-PPP",
     "ME-SA-DMM-MP",
+    "ME-SY-DAM-CONC",
     "NA-MA-CMN-NT",
     "NA-EG-PROG-11",
     "NA-TN-TUN-EXP",
