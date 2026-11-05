@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T13:43:26",
+  "generated": "2026-11-05T13:56:00",
   "candidates": [
     {
       "title": "Perth Airport to move all Terminal 1 pickup and drop-off to new P1 hub",
@@ -18,6 +18,16 @@
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Noida International Airport tests emergency response with full-scale SAKSHAM 2026 crisis exercise involving multiple agencies",
+      "link": "https://www.internationalairportreview.com/noida-international-airport-tests-emergency-response-with-full-scale-saksham-2026-crisis-exercise-involving-multiple-agencies/2136906.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "AP-IN-NIA-P1"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
