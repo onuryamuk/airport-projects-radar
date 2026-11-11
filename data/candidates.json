@@ -1,6 +1,17 @@
 {
   "candidates": [
     {
+      "title": "FEATURE: Comparing airport security and operational governance – Western Sydney (WSI) and Sydney (SYD) Airports",
+      "link": "https://www.passengerterminaltoday.com/features/feature-comparing-airport-security-and-operational-governance-western-sydney-wsi-and-sydney-syd-airports.html",
+      "published": "Wed, 11 Nov 2026 11:10:57 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [
+        "AU-NSW-WSI-OPEN",
+        "AU-NSW-SYD-MP45"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
       "title": "Royal Schiphol Group seeks to raise Maastricht Aachen Airport stake to 80%",
       "link": "https://www.passengerterminaltoday.com/news/operations-news/royal-schiphol-group-seeks-to-raise-maastricht-aachen-airport-stake-to-80.html",
       "published": "Mon, 09 Nov 2026 16:31:57 +0000",
@@ -99,5 +110,5 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
   ],
-  "generated": "2026-11-10T14:15:54"
+  "generated": "2026-11-11T13:29:34"
 }
