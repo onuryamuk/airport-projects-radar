@@ -1,6 +1,14 @@
 {
-  "generated": "2026-11-12T14:33:35",
+  "generated": "2026-11-13T13:51:59",
   "candidates": [
+    {
+      "title": "FEATURE: New ACI Europe Tender Code asks airports to look beyond the highest bid",
+      "link": "https://www.passengerterminaltoday.com/features/feature-new-aci-europe-tender-code-asks-airports-to-look-beyond-the-highest-bid.html",
+      "published": "Fri, 13 Nov 2026 12:29:37 +0000",
+      "source": "Passenger Terminal Today",
+      "matched_projects": [],
+      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
+    },
     {
       "title": "FEATURE: Comparing airport security and operational governance – Western Sydney (WSI) and Sydney (SYD) Airports",
       "link": "https://www.passengerterminaltoday.com/features/feature-comparing-airport-security-and-operational-governance-western-sydney-wsi-and-sydney-syd-airports.html",
@@ -53,12 +61,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "Schiphol airport to get house in order with five, nine-year contracts",
-      "link": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
-      "published": "Tue, 06 Oct 2026 13:06:52 +0000",
-      "source": "Global Construction Review",
+      "title": "New retail outlets to open at Brisbane Airport",
+      "link": "https://airport-world.com/new-retail-outlets-set-to-open-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-retail-outlets-set-to-open-at-brisbane-airport",
+      "published": "Fri, 13 Nov 2026 09:31:01 +0000",
+      "source": "Airport World",
       "matched_projects": [
-        "EU-NL-AMS-SOUTH"
+        "AU-QLD-BNE-MP26"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Cargo up, passenger traffic steady at Frankfurt Airport in October",
+      "link": "https://airport-world.com/cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october/?utm_source=rss&utm_medium=rss&utm_campaign=cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october",
+      "published": "Thu, 12 Nov 2026 16:14:42 +0000",
+      "source": "Airport World",
+      "matched_projects": [
+        "EU-DE-FRA-T3"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
