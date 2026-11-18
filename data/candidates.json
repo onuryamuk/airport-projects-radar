@@ -1,5 +1,4 @@
 {
-  "generated": "2026-11-17T15:27:04",
   "candidates": [
     {
       "title": "Perth Airport set to open new P1 transportation hub",
@@ -22,20 +21,22 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "FEATURE: New ACI Europe Tender Code asks airports to look beyond the highest bid",
-      "link": "https://www.passengerterminaltoday.com/features/feature-new-aci-europe-tender-code-asks-airports-to-look-beyond-the-highest-bid.html",
-      "published": "Fri, 13 Nov 2026 12:29:37 +0000",
-      "source": "Passenger Terminal Today",
-      "matched_projects": [],
-      "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
-    },
-    {
       "title": "The Changi experience: Inside one of aviation’s most recognised brands",
       "link": "https://www.internationalairportreview.com/the-changi-experience-inside-one-of-aviations-most-recognised-brands/1671478.article",
       "published": "",
       "source": "International Airport Review (homepage)",
       "matched_projects": [
         "AP-SG-SIN-T5"
+      ],
+      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
+    },
+    {
+      "title": "Zurich Airport to trial four self-driving wheelchairs for passengers with reduced mobility over three years",
+      "link": "https://www.internationalairportreview.com/zurich-airport-to-trial-four-self-driving-wheelchairs-for-passengers-with-reduced-mobility-over-three-years/2137015.article",
+      "published": "",
+      "source": "International Airport Review (homepage)",
+      "matched_projects": [
+        "EU-CH-ZRH-DOCKA"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -50,22 +51,12 @@
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
     {
-      "title": "New retail outlets to open at Brisbane Airport",
-      "link": "https://airport-world.com/new-retail-outlets-set-to-open-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-retail-outlets-set-to-open-at-brisbane-airport",
-      "published": "Fri, 13 Nov 2026 09:31:01 +0000",
-      "source": "Airport World",
+      "title": "ANA, Changi Airport Group, Singapore Airlines, Japan Airport Terminal, Cathay Pacific and AAHK recognised in FTE APAC Pioneer Awards 2026",
+      "link": "https://www.futuretravelexperience.com/2026/11/ana-changi-airport-group-singapore-airlines-japan-airport-terminal-cathay-pacific-and-aahk-recognised-in-fte-apac-pioneer-awards-2026/",
+      "published": "Wed, 18 Nov 2026 14:02:56 +0000",
+      "source": "Future Travel Experience",
       "matched_projects": [
-        "AU-QLD-BNE-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
-      "title": "Cargo up, passenger traffic steady at Frankfurt Airport in October",
-      "link": "https://airport-world.com/cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october/?utm_source=rss&utm_medium=rss&utm_campaign=cargo-up-passenger-traffic-steady-at-frankfurt-airport-in-october",
-      "published": "Thu, 12 Nov 2026 16:14:42 +0000",
-      "source": "Airport World",
-      "matched_projects": [
-        "EU-DE-FRA-T3"
+        "AP-SG-SIN-T5"
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     },
@@ -88,16 +79,6 @@
       "note": "Possible NEW project - not matched to any tracked record. Check scope and region before creating a record."
     },
     {
-      "title": "Sydney Airport and Plaza Premium Group to open new pay-per-use domestic lounge",
-      "link": "https://www.futuretravelexperience.com/2026/11/sydney-airport-and-plaza-premium-group-to-open-new-pay-per-use-domestic-lounge/",
-      "published": "Sun, 08 Nov 2026 15:22:07 +0000",
-      "source": "Future Travel Experience",
-      "matched_projects": [
-        "AU-WA-PER-MP26"
-      ],
-      "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
-    },
-    {
       "title": "heathrow:press-release Airports in every nation and region of the UK confirm their support for Heathrow expansion  23 October, 2026",
       "link": "https://mediacentre.heathrow.com/pressrelease/detail/26442",
       "published": "",
@@ -107,5 +88,6 @@
       ],
       "note": "Review: is this a material development (new stage, award, value, date) or a republished item?"
     }
-  ]
+  ],
+  "generated": "2026-11-18T15:01:41"
 }
