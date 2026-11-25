@@ -1,5 +1,5 @@
 window.AMI_REFRESH = {
-  "last_scan": "2026-11-24T16:55:11+00:00",
+  "last_scan": "2026-11-25T16:44:16+00:00",
   "scan_mode": "Automated feed scan (Refresh-Feeds.ps1) - candidates require analyst review",
   "schedule": "Daily (Windows Task Scheduler)",
   "feeds": [
@@ -47,9 +47,9 @@ window.AMI_REFRESH = {
       "name": "Construction Week Online",
       "url": "https://www.constructionweekonline.com/feed",
       "kind": "rss",
-      "status": "ERROR",
-      "items": 0,
-      "error": "Response status code does not indicate success: 405 (Not Allowed)."
+      "status": "200",
+      "items": 60,
+      "error": ""
     },
     {
       "name": "Future Travel Experience",
